@@ -1,0 +1,6 @@
+temp
+**_pycache_**
+
+.idea
+.idea/**
+.idea/sqldialects.xml
